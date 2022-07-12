@@ -1,0 +1,275 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    background-color:#dbbf92 ;
+}
+
+h1 {
+    font-size: 2.7rem;
+}
+
+h3{
+    font-size: 1.7rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    padding: 0 12%;
+    background-color: rgb(234, 180, 39) ;
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.05);
+    font-family: Verdana, sans-serif;
+    font-size: .77rem;
+    font-weight:bold;
+  }
+
+  .header .titulo {
+    flex-grow: 1;
+    color: white;
+    font-size: 32px;
+    padding-left: 0;
+  }
+  .header li {
+    display: inline;
+    padding-right: 2.22rem;
+  }
+  
+.header li a {
+    color: white;
+    flex-grow: 0;
+    font-size: 15px;
+ }
+
+
+  .banner{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 450px;
+        background: url("https://netivist.org/uploads/forum/discussions/pictures/55130df255f4f71340028148/qatar-2022-world-cup-controversy.jpg") center center no-repeat;
+        background-size: cover;
+        color: #ffb78c;
+    }
+.banner h2 {
+    color:rgba(0, 0, 0, 0);
+}
+main {
+    margin-left: 2%;
+}
+
+.caption1 {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 15%;
+    background-color: rgba(255, 255, 255, 0.65);
+    color: black;
+  }
+
+.image1 {
+    background: url('https://dailyamazingthings.com/wp-content/uploads/2021/01/Ras-Abu-Aboud-Stadium.jpg')no-repeat;
+    background-size: 500px;
+    background-position:left ; 
+    height:300px;
+}
+
+.caption2 {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 15%;
+    background-color: rgba(255, 255, 255, 0.65);
+    color: black;
+  }
+
+.image2 {
+    background: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.archpaper.com%2Fwp-content%2Fuploads%2F2018%2F12%2FLusail-1.jpg&f=1&nofb=1')no-repeat;
+    background-size: 500px;
+    background-position:left ; 
+    height:300px;
+}
+
+.caption3 {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 15%;
+    background-color: rgba(255, 255, 255, 0.65);
+    color: black;
+  }
+
+.image3 {
+    background: url('https://images.adsttc.com/media/images/5b4f/642c/f197/cc6e/fc00/018b/newsletter/al_bayt_stadium01.jpg?1531929638')no-repeat;
+    background-size: 500px;
+    background-position:left ; 
+    height:300px;
+}
+
+.caption4 {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 15%;
+    background-color: rgba(255, 255, 255, 0.65);
+    color: black;
+  }
+
+.image4 {
+    background: url('https://www.qatar2022.qa/sites/default/files/inline-images/Al-Thumama-Stadium-homepage-dusk.jpg')no-repeat;
+    background-size: 500px;
+    background-position:left ; 
+    height:300px;
+}
+.caption5 {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 15%;
+    background-color: rgba(255, 255, 255, 0.65);
+    color: black;
+  }
+
+.image5 {
+    background: url('https://www.qatar2022.qa/sites/default/files/legacy/Al%20Wakrah%20Stadium%20at%20night%20drone%20shot_0.png')no-repeat;
+    background-size: 500px;
+    background-position:left ; 
+    height:300px;
+}
+
+.caption6 {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 15%;
+    background-color: rgba(255, 255, 255, 0.65);
+    color: black;
+  }
+
+.image6 {
+    background: url('https://www.qatar2022.qa/sites/default/files/2021-01/ahmad-bin-ali-stadium-design.jpg')no-repeat;
+    background-size: 500px;
+    background-position:left ; 
+    height:300px;
+}
+
+.caption7 {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 15%;
+    background-color: rgba(255, 255, 255, 0.65);
+    color: black;
+  }
+
+.image7 {
+    background: url('https://images.adsttc.com/media/images/5b4f/6569/f197/cc6e/fc00/019a/newsletter/qatar_foundation_stadium04.jpg?1531929957')no-repeat;
+    background-size: 500px;
+    background-position:left ; 
+    height:300px;
+}
+
+.caption8 {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 15%;
+    background-color: rgba(255, 255, 255, 0.65);
+    color: black;
+  }
+
+.image8 {
+    background: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.visitqatar.qa%2Fcontent%2Fdam%2Fvisitqatar%2Fimg%2Fthings-to-do%2Fadventures%2Fother-sports-and-activities%2Fkhalifa-international-stadium%2FKhalifa_International_Stadium6.jpg%2Fjcr%3Acontent%2Frenditions%2Fhuge-2560px.jpeg&f=1&nofb=1')no-repeat;
+    background-size: 500px;
+    background-position:left ; 
+    height:300px;
+}
+
+
+.fotogrupos {
+    background: url('https://cloudinary.fifa.com/m/398a75e21d038f69/original/FIFA-World-Cup-Qatar-2022-Final-groups.jpg')no-repeat;
+    background-size: 800px;
+    background-position:left ; 
+    height:500px;
+    margin-left: 2%;
+}
+
+.fusos {
+    background: url('https://www.qatar2022.qa/sites/default/files/inline-images/Qatar%202022_%20Kick-off%20times%20%28EN%29.jpg')no-repeat;
+    background-size: 800px;
+    background-position:left; 
+    height:500px;
+    margin-left: 2%;
+    
+}
+
+#calendario li {
+    display:inline-table;
+    padding-right: 7%;
+}
+
+#grupof {
+    padding-left: 3%;
+}
+
+#grupoh {
+    padding-left: 5%;
+}
+
+a {
+    color:#8c143b ;
+}
